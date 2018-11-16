@@ -13,8 +13,8 @@ This repository accompanies my master thesis titled: "Minimising Regret in Outli
 ## Data
 
 Data was obtained from two major sources:
-    - [ODDS datasets][odds] in matlab format
-    - [Datasets used by Campos et al, (2016)][campos et al datasets] in arff format
+  - [ODDS datasets][odds] in matlab format
+  - [Datasets used by Campos et al, (2016)][campos et al datasets] in arff format
 
 ## References
 Campos, G. O., Zimek, A., Sander, J., Campello, R. J., Micenková, B., Schubert, E., ... & Houle, M. E. (2016). 
